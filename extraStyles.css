@@ -1,5 +1,39 @@
+:root{
+    --light-pink: #fff0f2;
+    --hot-pink: #ff3856;
+    --grink: #e9ced2;
+    --rose: #fd8395;
+    --grey: #dacacc;
+    --purple: #b39eaf;
+    --teal: #70d6d6;
+    --baby-teal: #acd9c8;
+    --ada-purple: #6b5667;
+    --honey: #ffae03;
+    --darkhoney: #c08403;
+    --forest: #394648;
+}
 
 
-#1of3 {
-    color: #00ff00;
+#one3{
+    background-color: #fd8395;
+}
+
+#two3 {
+    background-color: #70d6d6;
+}
+
+#three3 {
+    background-color: #ff3856;
+}
+
+#one2 {
+    background-color: #ffae03;
+}
+
+#two2 {
+    background-color: #c08403;
+}
+
+#one1 {
+    background-color: #b39eaf;
 }
