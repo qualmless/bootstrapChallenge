@@ -1,0 +1,17 @@
+Let's kick off the morning with a coding challenge.  This is ungraded and a chance for self-assessment in HTML, CSS, Bootstrap, and GitHub.  Come back at 9am to review the solution and break in to groups for the last project of this class.
+
+** CODING CHALLENGE: BOOTSTRAP GRID **
+
+Create a new project in VS Code and sync it with GitHub.com.  Include an HTML file that does the following:
+
+Includes Bootstrap’s CSS file in the <head>
+Has a bootstrap grid with 3 rows. The first has 3 columns, the second has 2 columns, and the 3rd row has 1 column. This is all when the screen width is large or bigger
+That same grid, when on a screen that is size Small or larger, shouldn’t have more than 2 columns per row.
+Color the backgrounds of these divs with different colors so that each column can be seen.
+(Optional, if time permits)  add an image to one of the columns and make it responsive. Add a Jumbotron above your 3 rows. Change the columns so that at screen width medium or larger, each column spans all 12 of the grid units.
+
+Hint: to make a column behave one way when the screen is XL, you just give the div a class of col-xl-4 where the number (4 in this example) is a number of grid units out of 12 that the column should span.  To make that same column behave differently on a small screen, you could ALSO give it the class of col-sm-6, and now that same column on a small screen will span 6 of the 12 grid units. An example of the syntax is as follows:
+
+<div class”col-xl-5 col-sm-7”>I am the content</div>
+
+Message me your GitHub pages URL before 9am - whether you're done or not!
